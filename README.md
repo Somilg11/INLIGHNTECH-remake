@@ -3,6 +3,9 @@
 
 Welcome to the **INLIGHN TECH** website — a modern, dark-themed web application built using **Next.js**, **Tailwind CSS**, **GSAP**, and **Magic UI**. This project showcases rich animations, clean design, and responsive components tailored for a tech-education platform.
 
+
+<!-- dskjvbdf -->
+
 ## ✨ Features
 
 - 🌑 **Dark Theme First** design with beautiful gradients
